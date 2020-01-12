@@ -1,0 +1,8 @@
+    1  cd /opt/git-demo/
+    2  git status
+    3  mv day16 /opt/
+    4  git status
+    5  ls
+    6  git checkout -b root/my-feture
+    7  git branch 
+    8  history | cat >> sample.txt 
