@@ -2,7 +2,7 @@ node
 {
     stage 'checkout1'
 
-    git url: 'https://github.com/bogo-devops/game-of-life.git'
+    git url: 'https://github.com/mangesh2310/excersise1.git'
 
 
      def mvnHome = tool 'M3'
