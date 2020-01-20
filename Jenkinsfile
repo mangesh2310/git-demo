@@ -10,5 +10,5 @@ node
      stage 'Build'
 
 
-     sh "${mvnHome}/bin/mvn clean test sonar:sonar")
+     sh "${mvnHome}/bin/mvn clean test sonar:sonar"
 }
